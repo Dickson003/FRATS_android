@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">F.R.A.T.S</string>
+    <string-array name="items">
+        <item>Diary</item>
+        <item>Report</item>
+        <item>Groups</item>
+        <item>Assistants</item>
+        <item>Facts</item>
+    </string-array>
+</resources>
